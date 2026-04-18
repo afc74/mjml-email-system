@@ -1,0 +1,30 @@
+{
+  "name": "mjml-email-system",
+  "version": "1.0.0",
+  "description": "Responsive HTML email examples built with MJML, including multilingual templates, shared components, MJML-to-HTML compilation and Nodemailer integration.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afc74/mjml-email-system.git"
+  },
+  "keywords": ["mjml", "email", "responsive", "html email"],
+  "author": "Alex Folch",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/afc74/mjml-email-system/issues"
+  },
+  "homepage": "https://github.com/afc74/mjml-email-system#readme",
+  "engines": {
+    "node": "~24"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "chokidar": "^5.0.0",
+    "mjml": "^5.0.1",
+    "mkdirp": "^3.0.1"
+  }
+}
