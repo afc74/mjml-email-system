@@ -4,7 +4,8 @@
   "description": "Responsive HTML email examples built with MJML, including multilingual templates, shared components, MJML-to-HTML compilation and Nodemailer integration.",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/build.mjs"
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs"
   },
   "repository": {
     "type": "git",
