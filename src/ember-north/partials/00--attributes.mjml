@@ -1,0 +1,81 @@
+<!-- General -->
+<mj-body width="640px"
+        background-color="#ECE8E2" />
+
+<mj-class name="wrapperDefault"
+          css-class="wrapperDefault"
+          background-color="#F6F3EF"
+          padding="0 20px" />
+
+<mj-section background-color="#F6F3EF" />
+
+<mj-button target="_blank"
+           rel="nofollow noopener noreferrer" />
+
+<mj-image target="_blank"
+           rel="nofollow noopener noreferrer" />
+
+<mj-navbar-link target="_blank"
+           rel="nofollow noopener noreferrer" />
+
+<mj-text font-family="Georgia, Times New Roman, serif" />
+
+<!-- Section: Header Logo -->
+<mj-class name="sectionHeaderLogo"
+          css-class="sectionHeaderLogo" />
+
+<mj-class name="imageHeaderLogo"
+          width="300px"
+          padding="0" />
+
+<!-- Section: Hero -->
+<mj-class name="sectionHero"
+          padding-top="0"
+          css-class="sectionHero" />
+
+<mj-class name="imageHero"
+          css-class="imageHero"
+          border-radius="20px"
+          padding="0"/>
+
+
+<!-- Section: Separator -->
+<mj-class name="sectionSeparator"
+          css-class="sectionSeparator"
+          padding="0" />
+
+<mj-class name="spacer20"
+          css-class="spacer20"
+          height="20px" />
+
+
+<!-- Button -->
+<mj-class name="buttonMain"
+          font-family="Inter, sans-serif"
+          font-weight="600"
+          text-transform="uppercase"
+          inner-padding="10px 40px"
+          border-radius="25px"
+          font-size="18px"
+          color="#ffffff"
+          background-color="#986C3D"
+          letter-spacing="1px"/>
+
+
+<!-- Main Texts -->
+<mj-class name="textBody"
+          css-class="textBody" />
+
+
+<!-- Inbox Preheader -->
+<mj-class name="sectionInboxPreheader"
+          padding="0" />
+
+<mj-class name="columnInboxPreheader"
+          padding="0" />
+
+<mj-class name="preheader-buffer"
+          css-class="preheader-buffer"
+          font-size="1px"
+          line-height="1px"
+          padding="0" />

@@ -1,0 +1,8 @@
+<mj-raw>
+  <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+  <meta name="x-apple-disable-message-reformatting">
+</mj-raw>
+<mj-breakpoint width="580px" />
+<mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700" />
+<mj-include path="./00--styles-inline.mjml" />
+<mj-include path="./00--styles.mjml" />

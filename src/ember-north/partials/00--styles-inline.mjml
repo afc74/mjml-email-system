@@ -1,0 +1,75 @@
+<mj-style inline="inline">
+
+  .textBody h1 {
+    font-size: 40px;
+    text-align: center;
+    text-wrap: balance;
+    margin: 0 auto 30px;
+    font-family: "Inter", sans-serif;
+    letter-spacing: -0.01em;
+    color: #1d3654;
+    max-width: 340px;
+  }
+
+  .textGrid h3,
+  .textBody h2 {
+    font-size: 20px;
+    text-wrap: balance;
+    margin: 0 0 10px;
+    font-family: "Inter", sans-serif;
+    color: #4e433b;
+  }
+
+  .textGrid p,
+  .textBody p {
+    font-size: 16px;
+    margin: 0 0 10px;
+    line-height: 1.6;
+    text-wrap: balance;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #4e433b;
+  }
+
+  .textGrid h3 {
+    margin: 10px 0 15px;
+  }
+
+  .textGrid p {
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  .footerHeading h3 {
+    margin: 0 0 10px;
+    font-family: "Inter", sans-serif;
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .textFooterNavLink {
+    text-align: center;
+  }
+
+  .mailchimpUnsubscribe {
+    color: #986C3D !important;
+  }
+
+  .preheader-buffer {
+    display: none !important;
+    mso-hide: all !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    color: transparent !important;
+    height: 0 !important;
+    width: 0 !important;
+    max-height: 0 !important;
+    max-width: 0 !important;
+    overflow: hidden !important;
+    font-size: 1px !important;
+    line-height: 1px !important;
+  }
+
+</mj-style>

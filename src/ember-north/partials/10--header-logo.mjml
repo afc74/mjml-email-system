@@ -1,0 +1,9 @@
+<mj-section mj-class="sectionHeaderLogo">
+  <mj-column>
+
+    <mj-image src="https://cdn.afc74.com/images/0612126D3F16BDD6--logo-ember-north.png"
+              alt="Logo Ember North"
+              mj-class="imageHeaderLogo"/>
+
+  </mj-column>
+</mj-section>

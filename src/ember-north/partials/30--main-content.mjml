@@ -1,0 +1,50 @@
+<mj-section mj-class="sectionMain sectionMainHeader">
+  <mj-column>
+
+    <mj-text mj-class="textBody textBodyColumn">
+
+      <h1>Crafted between two worlds</h1>
+
+      <p class="text-center">
+        Ember North brings together refined materials and modern craftsmanship to create pieces designed for calm, useful, long-lasting daily living.
+      </p>
+
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section mj-class="sectionMain sectionMainColumns">
+  <mj-column>
+    <mj-text mj-class="textBody textBodyColumn">
+
+      <h2>A considered approach</h2>
+
+      <p>
+        Every Ember North piece is designed with intention, balancing clean lines, tactile materials and durable construction to create a timeless aesthetic.
+      </p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column>
+    <mj-text mj-class="textBody textBodyColumn">
+
+      <h2>Built to last</h2>
+
+      <p>
+        From initial concept to final finish, each detail is refined to ensure usefulness, comfort and quiet character that grows with everyday use.
+      </p>
+
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section mj-class="sectionMain sectionMainCTA">
+  <mj-column>
+    <mj-button mj-class="buttonMain"
+               href="https://alexfc.com/">
+      Shop Now
+    </mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-include path="./90--section-separator.mjml"/>

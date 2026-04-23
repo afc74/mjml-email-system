@@ -1,0 +1,31 @@
+<mjml lang="en">
+
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="./partials/00--attributes.mjml" />
+      <mj-include path="./partials/30--main-content--attributes.mjml" />
+      <mj-include path="./partials/40--shopping-grid--attributes.mjml" />
+      <mj-include path="./partials/50--footer--attributes.mjml" />
+    </mj-attributes>
+    <mj-include path="./partials/00--head.mjml"/>
+    <mj-title>Ember North April 2026</mj-title>
+    <mj-preview>Thoughtful design, built to last. Explore the collection.</mj-preview>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-wrapper mj-class="wrapperDefault">
+
+      <mj-include path="./partials/05--inbox-preheader.mjml"/>
+      <mj-include path="./partials/10--header-logo.mjml"/>
+      <mj-include path="./partials/20--hero.mjml"/>
+      <mj-include path="./partials/30--main-content.mjml"/>
+      <mj-include path="./partials/40--shopping-grid.mjml"/>
+      <mj-include path="./partials/50--footer.mjml"/>
+      <mj-include path="./partials/90--section-separator.mjml"/>
+
+    </mj-wrapper>
+
+  </mj-body>
+
+</mjml>

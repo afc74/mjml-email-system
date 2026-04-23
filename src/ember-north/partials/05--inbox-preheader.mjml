@@ -1,0 +1,15 @@
+<mj-raw>
+  <!--
+    Preheader buffer to prevent email clients (Gmail/Outlook)
+    from leaking body copy (e.g. “Congratulations…”).
+    Do not remove unless preview behaviour is verified.
+  -->
+</mj-raw>
+
+<mj-section mj-class="sectionInboxPreheader">
+  <mj-column mj-class="columnInboxPreheader">
+    <mj-text mj-class="preheader-buffer">
+      &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </mj-text>
+  </mj-column>
+</mj-section>

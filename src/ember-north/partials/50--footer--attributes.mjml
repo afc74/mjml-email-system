@@ -1,0 +1,61 @@
+<!-- Footer General -->
+<mj-class name="sectionFooter"
+          css-class="sectionFooter"
+          border-radius="20px"
+          background-color="#f3eee8"
+          border="solid 1px #D7C7B3" />
+
+<!-- Footer Texts -->
+<mj-class name="footerHeading"
+          css-class="footerHeading"
+          color="#9c7346"
+          font-size="16px"
+          padding-bottom="0"
+          text-transform="uppercase"
+          align="center" />
+
+<mj-class name="textFooterLegal"
+          css-class="textFooterLegal"
+          line-height="1.5"
+          color="#924e15"
+          padding="20px 0 0"
+          align="center"
+          font-size="13px" />
+
+<mj-class name="textFooterNav"
+          hamburger="false"/>
+
+<mj-class name="textFooterNav"
+          padding="10px 10px 0"/>
+
+<mj-navbar-link color="#924e15"
+                font-size="14px"
+                line-height="1.5"
+                padding="5px 10px"
+                font-family="Georgia, Times New Roman, serif"
+                />
+
+<!-- Footer Social Media -->
+<mj-social-element background-color="#986C3D"
+                   border-radius="12px"
+                   icon-size="44px"
+                   icon-height="44px"/>
+
+<!-- Mailchimp -->
+<mj-class name="sectionMailchimpUnsubscribe"
+          css-class="sectionMailchimpUnsubscribe"
+          padding-top="0" />
+
+<mj-class name="mailchimpUnsubscribe"
+          css-class="mailchimpUnsubscribe"
+          align="center"
+          font-size="14px"
+          font-family="Georgia, Times New Roman, serif" />
+
+<!-- Divider -->
+<mj-class name="dividerFooter"
+          css-class="dividerFooter"
+          width="80%"
+          padding="20px 10px"
+          border-color="#D7C7B3"
+          border-width="1px" />

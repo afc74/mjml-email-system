@@ -1,0 +1,9 @@
+<mj-section mj-class="sectionHero">
+  <mj-column>
+
+    <mj-image src="https://cdn.afc74.com/images/DD8D126D3F16E92D--hero-ember-north.jpg"
+              alt="Modern bedroom with tufted bed, neutral bedding, matching nightstands, and bench by large windows"
+              mj-class="imageHero"/>
+
+  </mj-column>
+</mj-section>

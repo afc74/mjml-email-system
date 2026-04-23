@@ -1,0 +1,40 @@
+<mj-section mj-class="sectionFooter">
+  <mj-column>
+
+    <mj-text mj-class="footerHeading">
+      <h3>Stay connected</h3>
+    </mj-text>
+    <mj-button mj-class="buttonMain"
+               css-class="buttonMain"
+               href="https://alexfc.com/">
+      <span>Join the list</span>
+    </mj-button>
+
+    <mj-divider mj-class="dividerFooter"/>
+
+    <mj-text mj-class="footerHeading">
+      <h3>Follow Us</h3>
+    </mj-text>
+    <mj-social>
+      <mj-social-element name="x" href="#" />
+      <mj-social-element name="instagram" href="#" />
+      <mj-social-element name="facebook" href="#" />
+      <mj-social-element name="youtube" href="#"/>
+    </mj-social>
+
+    <mj-navbar mj-class="textFooterNav" css-class="textFooterNav">
+      <mj-navbar-link css-class="textFooterNavLink" href="https://alexfc.com/">Privacy Policy</mj-navbar-link>
+      <mj-navbar-link css-class="textFooterNavLink" href="https://alexfc.com/">Terms &amp; Conditions</mj-navbar-link>
+      <mj-navbar-link css-class="textFooterNavLink" href="https://alexfc.com/">Cookie Policy</mj-navbar-link>
+    </mj-navbar>
+
+    <mj-text mj-class="textFooterLegal">
+      <p>&copy;2026 Ember North. All rights reserved.</p>
+    </mj-text>
+
+    <mj-text mj-class="mailchimpUnsubscribe">
+      <a href="*|UNSUB|*" class="mailchimpUnsubscribe">Unsubscribe</a>
+    </mj-text>
+
+  </mj-column>
+</mj-section>

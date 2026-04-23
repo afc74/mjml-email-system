@@ -1,0 +1,19 @@
+<mj-style>
+  @media (max-width: 480px) {
+
+    .textFooterNav a {
+      display: block !important;
+    }
+
+    td.buttonGrid {
+      text-align: center !important;
+    }
+
+    td.buttonGrid table {
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+
+
+  }
+</mj-style>

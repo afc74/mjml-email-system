@@ -1,0 +1,74 @@
+<mj-section mj-class="sectionShoppingGrid">
+
+  <mj-column mj-class="columnShoppingGridImage">
+    <mj-image  mj-class="imageGridProduct"
+               src="https://cdn.afc74.com/images/9609126D3F16ED0B--product-ember-north-core.jpg"
+               alt="Ceramic mug and folded cloth on a wooden desk beside a minimalist organiser tray" />
+  </mj-column>
+
+  <mj-column mj-class="columnShoppingGridText">
+    <mj-text mj-class="textGrid">
+      <h3>Ember North Core</h3>
+      <p>A refined everyday essential designed for balance and simplicity. Clean lines, durable materials, and a timeless form make it a natural part of any daily ritual.</p>
+    </mj-text>
+
+    <mj-button mj-class="buttonMain buttonGrid"
+                href="https://alexfc.com/">
+    Shop Now
+  </mj-button>
+
+  </mj-column>
+
+</mj-section>
+
+<mj-include path="./90--section-separator.mjml"/>
+
+<mj-section mj-class="sectionShoppingGrid sectionShoppingGridRtL">
+
+  <mj-column mj-class="columnShoppingGridImage">
+    <mj-image mj-class="imageGridProduct"
+              src="https://cdn.afc74.com/images/2BFF126D3F16EE96--product-ember-north-classic.jpg"
+              alt="Notebook and pen stacked on a wooden organiser tray with a ceramic mug in the background" />
+  </mj-column>
+
+  <mj-column mj-class="columnShoppingGridText">
+    <mj-text mj-class="textGrid">
+      <h3>Ember North Classic</h3>
+      <p>A softer, more expressive piece with subtle detailing and warm materials. Designed to bring character and depth to everyday spaces without excess.</p>
+    </mj-text>
+
+    <mj-button mj-class="buttonMain buttonGrid"
+               href="https://alexfc.com/">
+      Shop Now
+    </mj-button>
+
+  </mj-column>
+
+</mj-section>
+
+<mj-include path="./90--section-separator.mjml"/>
+
+<mj-section mj-class="sectionShoppingGrid">
+
+  <mj-column mj-class="columnShoppingGridImage">
+    <mj-image mj-class="imageGridProduct"
+              src="https://cdn.afc74.com/images/FD74126D3F16EFBC--product-ember-north-signature.jpg"
+              alt="Wooden organiser tray with small everyday items arranged neatly on a desk" />
+  </mj-column>
+
+  <mj-column mj-class="columnShoppingGridText">
+    <mj-text mj-class="textGrid">
+      <h3>Ember North Signature</h3>
+      <p>A considered statement piece, combining premium materials with a confident, modern form.</p>
+    </mj-text>
+
+    <mj-button mj-class="buttonMain buttonGrid"
+               href="https://alexfc.com/">
+      Shop Now
+    </mj-button>
+
+  </mj-column>
+
+</mj-section>
+
+<mj-include path="./90--section-separator.mjml"/>

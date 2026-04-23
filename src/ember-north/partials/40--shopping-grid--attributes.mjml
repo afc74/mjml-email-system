@@ -1,0 +1,31 @@
+<!--region Shopping Grid -->
+<mj-class name="sectionShoppingGrid"
+          css-class="sectionShoppingGrid"
+          background-color="#ffffff"
+          border-radius="20px"
+          padding="0" />
+
+<mj-class name="sectionShoppingGridRtL"
+          css-class="sectionShoppingGridRtL"
+          direction="rtl" />
+
+<mj-class name="columnShoppingGridText"
+          css-class="columnShoppingGridText"
+          vertical-align="top"/>
+
+<mj-class name="columnShoppingGridImage"
+          css-class="columnShoppingGridImage"/>
+
+<mj-class name="imageGridProduct"
+          css-class="imageGridProduct"
+          fluid-on-mobile="true"
+          padding="0"/>
+
+<mj-class name="textGrid"
+          css-class="textGrid" />
+
+<mj-class name="buttonGrid"
+          css-class="buttonGrid"
+          align="left" />
+
+<!--endregion-->

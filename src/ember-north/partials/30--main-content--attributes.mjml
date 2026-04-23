@@ -1,0 +1,20 @@
+<!-- Section: Main Content -->
+<mj-class name="sectionMain"
+          css-class="sectionMainContent"
+          background-color="#ffffff" />
+
+<mj-class name="sectionMainHeader"
+          css-class="sectionMainHeader"
+          border-radius="20px 20px 0 0" />
+
+<mj-class name="sectionMainColumns"
+          css-class="sectionMainColumns"
+          padding="0"/>
+
+<mj-class name="textBodyColumn"
+          css-class="textBodyColumn" />
+
+<mj-class name="sectionMainCTA"
+          css-class="sectionMainCTA"
+          padding-top="0"
+          border-radius="0 0 20px 20px"/>
