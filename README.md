@@ -4,8 +4,6 @@ MJML-based workflow for building and previewing responsive HTML email templates.
 
 This repository demonstrates a simple, real-world email development setup using MJML, including compilation, local preview, and file watching.
 
-The `ember-north` template in this repo is currently a test implementation for validating the npm-based workflow.
-
 Main scripts:
 
 - `build`: compile one MJML template into HTML
@@ -51,8 +49,6 @@ Example:
 npm run build -- email-1
 ```
 
-Notes:
-
 The build script requires the slug as a CLI argument and does not use `dev.config.json`.
 
 ### Dev
@@ -88,6 +84,6 @@ Set `browser` to any BrowserSync-compatible browser name. Common values:
 - Edge: `"msedge"`
 - Firefox: `"firefox"`
 
-## Template Design Notes
+## Template Guides
 
-- `src/ember-north/readme.md` contains the design guide for the `ember-north` email (palette, subject line, preview line, and polish notes).
+- [`ember-north`](src/ember-north/readme.md): inbox copy and colour tokens
