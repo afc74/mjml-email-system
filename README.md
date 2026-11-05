@@ -9,6 +9,14 @@ Main scripts:
 - `build`: compile one MJML template into HTML
 - `dev`: build, serve with BrowserSync, and watch for changes
 
+## Live Preview
+
+Compiled templates: [afc74.github.io/mjml-email-system](https://afc74.github.io/mjml-email-system/)
+
+- [Ember North](https://afc74.github.io/mjml-email-system/ember-north/)
+
+The preview is deployed from the committed `dist/` folder by a GitHub Actions workflow (`.github/workflows/pages.yml`) on every push to `main` that changes `dist/`.
+
 ## Requirements
 
 - Node.js `~24`
@@ -26,7 +34,8 @@ npm install
 src/<slug>/index.mjml        # main template
 src/<slug>/partials/         # reusable MJML components
 
-dist/<slug>/index.html       # compiled output
+dist/<slug>/index.html       # compiled output (committed, used for the live preview)
+dist/index.html              # preview landing page
 
 screenshots/<slug>/          # preview images (desktop/mobile)
 
